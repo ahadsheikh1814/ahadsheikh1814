@@ -10,7 +10,7 @@
 ```
 
 **Frontend Developer** · Building interactive UI from Bangladesh 🇧🇩  
-15 y/o, shipping real products.
+15 y/o, shipping real products
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ahadsheikh1814&style=flat-square&color=0e75b6&label=views)](https://github.com/ahadsheikh1814)
 
